@@ -1,4 +1,5 @@
 # Proyecto Final: Ocultamiento y recuperación de audio por permutación espectral
+Nombre: Paula Valentina Laguna Parra
 
 Repositorio con el desarrollo del proyecto de Análisis de Señales. Aquí se implementa el método de imitación espectral (*Imitation*) usando la Transformada Rápida de Fourier (`rfft`) para ocultar cinco mensajes de audio dentro de un espectro de referencia, junto con su recuperación (*Reverse*) y evaluación de calidad.
 
